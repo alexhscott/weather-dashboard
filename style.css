@@ -1,0 +1,27 @@
+body {
+    background-color: lightgrey;
+}
+
+nav {
+    background-color: skyblue;
+    text-align: center;
+    padding: 20px 0px;
+    border-bottom: 5px solid black;
+}
+
+h1 {
+    font-weight: bolder;
+}
+
+form {
+    margin: 20px 50px;
+    text-align: center;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+.search-text {
+    font-style: italic;
+}
